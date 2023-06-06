@@ -1,0 +1,10 @@
+git clone
+git branch
+git checkout
+git add.
+git commit -m
+git puch
+git config --global user.name
+git config --global user.email
+git pull
+git push origin main
